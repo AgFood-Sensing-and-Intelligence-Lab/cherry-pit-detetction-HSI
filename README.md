@@ -41,7 +41,7 @@ We developed a complete workflow to classify cherries as **intact** or **pitted*
 
 ---
 
-## 3. Main findings (from the paper)
+## 3. Main findings
 
 - The **1007–1057 nm** interval was the most informative region and enabled **perfect classification** (accuracy, precision, recall, F1-score = **1.0**) using both RF and SVM.
 - A compact wavelength set (**1007, 1014, 1032, 1236 nm**) achieved **the same perfect performance**, supporting reduced-band implementations.
